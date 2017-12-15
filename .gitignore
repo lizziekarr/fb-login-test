@@ -1,0 +1,5 @@
+node_modules
+*.sketch
+*.DS_Store
+public/bundle.js
+*.log.*
